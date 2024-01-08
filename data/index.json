@@ -1,0 +1,134 @@
+{
+    "jobTitle": [
+        {
+            "title": "a software developer",
+            "color": "rgb(57, 153, 0)"
+        }  
+    ],
+    "about": [
+        "HEY!! I'm Daanyaal Kellerman. I'm an aspiring Fullstack Web Developer. I enjoy bringing out the creative talent of other's and distributing the knowledge that i learn along my journey. I tend to make those around me more comfortable to better their mindset, lessen stress within the work environment and to strengthen our bonds.When it comes to doing things under pressure i always think of that one bruce lee quote flow like water so i go with the flow whilst still maintaining my drive towards the unreachable goal that is Perfection.",
+        "I spend most of my time skating to be more active, gyming to better my physical health, playing games to meet new people and spending quality time with my family."
+    ],
+    "resume": [
+        {
+            "id": 1,
+            "year": "September 2023 - Present Day",
+            "description": "Currently a student at Life Choices Academy, to be a Fullstack Developer, the discipline, the drive, the overall good people in this academy is what made me stay for so long, i most definetly know more about coding in a month than what i learned at False Bay College",
+            "place": "Life Choices Coding Academy",
+            "logo": "https://drive.google.com/file/d/1-f1yRukcXLo0e8ip3Cb7Z3D29Er9ENn_/view"
+        },
+        {
+            "id": 2,
+            "year": "February 2019 - May 2019",
+            "description": "I really enjoyed my time at False Bay this is where I got my love for computers and coding in general. I made the decision to leave due to transportation. Although I was there for a short amount of time it taught me the one thing i wanted to pursue and thats coding",
+            "place": "False Bay College",
+            "logo": "https://drive.google.com/file/d/1qd2xS-HvI4c_C4vf1-Z1R_bPxzF7SZ-t/view"
+        },
+        {
+            "id": 3,
+            "year": "2013 - 2018",
+            "description": "I matriculated at Strandfontein Secondary School in 2018. My subjects were Math Lit, Geography, Biography, Business Studies, English, Afrikaans, Life Orientation",
+            "place": "Strandfontein Secondary School",
+            "logo": "https://drive.google.com/file/d/1-_DBHhxHKGS3Gqsy5eJ-_16WJN50OfXX/view"
+        }
+    ],
+    "skills": [
+        {
+            "logo": ""
+        },
+        {
+            "logo": ""
+        },
+        {
+            "logo": ""
+        },
+        {
+            "logo": ""
+        },
+        {
+            "logo": ""
+        }
+    ],
+    "testimonials": [
+        {
+            "name": "Rachel",
+            "surname": "Mukanya",
+            "quotes": "Joel never ceases to amaze me with the vast amount of knowledge he has acquired over the years in software development. He is truly a great mentor.",
+            "profile": "https://i.postimg.cc/SRBL8qnC/rachel.jpg"
+        },
+        {
+            "name": "Ruth",
+            "surname": "Mukanya",
+            "quotes": "Joel is a nice person. Someone who is really reliable and honest always does his work and makes sure everything is well organized.",
+            "profile": "https://i.postimg.cc/DyGHNwPV/ruth.jpg"
+        },
+        {
+            "name": "Lazola",
+            "surname": "Makubalo",
+            "quotes": "Joel Tshimanga Mukunya is an incredibly humble intellectual. He is an outstanding lecturer who consistently finds effective ways to ensure that everyone comprehends the content. Additionally, he has a delightful personality, making him a joy to be around.",
+            "profile": "https://i.postimg.cc/3rZ0H0D8/profile-Image.png"
+        },
+        {
+            "name": "Dr. Godwin P",
+            "surname": "Dzvapatsva",
+            "quotes": "I am thrilled to share my heartfelt testimonial for Joel, a remarkable former co-worker and lecturer. Joel worked under my guidance for one year during my time as Head of Curriculum and Learning at Lifechoices Academy. His expertise in C++, HTML, CSS, Vue.js, JavaScript, and Node.js is truly impressive, and he effortlessly demonstrates proficiency in these technologies. However, what truly sets Joel apart is his exceptional teaching skills. He has a natural talent for breaking down complex concepts into easily digestible bits, making the learning process enjoyable and engaging. Joel's patience and willingness to go the extra mile to ensure every student grasps the material are truly commendable. I consider myself fortunate to have learned from him, and I wholeheartedly recommend him as an outstanding educator.",
+            "profile": "https://i.postimg.cc/3rZ0H0D8/profile-Image.png"
+        },
+        {
+            "name": "Dr. Godwin P",
+            "surname": "Dzvapatsva",
+            "quotes": "I am thrilled to share my heartfelt testimonial for Joel, a remarkable former co-worker and lecturer. Joel worked under my guidance for one year during my time as Head of Curriculum and Learning at Lifechoices Academy. His expertise in C++, HTML, CSS, Vue.js, JavaScript, and Node.js is truly impressive, and he effortlessly demonstrates proficiency in these technologies. However, what truly sets Joel apart is his exceptional teaching skills. He has a natural talent for breaking down complex concepts into easily digestible bits, making the learning process enjoyable and engaging. Joel's patience and willingness to go the extra mile to ensure every student grasps the material are truly commendable. I consider myself fortunate to have learned from him, and I wholeheartedly recommend him as an outstanding educator.",
+            "profile": "https://i.postimg.cc/3rZ0H0D8/profile-Image.png"
+        },
+        {
+            "name": "Dr. Godwin P",
+            "surname": "Dzvapatsva",
+            "quotes": "I am thrilled to share my heartfelt testimonial for Joel, a remarkable former co-worker and lecturer. Joel worked under my guidance for one year during my time as Head of Curriculum and Learning at Lifechoices Academy. His expertise in C++, HTML, CSS, Vue.js, JavaScript, and Node.js is truly impressive, and he effortlessly demonstrates proficiency in these technologies. However, what truly sets Joel apart is his exceptional teaching skills. He has a natural talent for breaking down complex concepts into easily digestible bits, making the learning process enjoyable and engaging. Joel's patience and willingness to go the extra mile to ensure every student grasps the material are truly commendable. I consider myself fortunate to have learned from him, and I wholeheartedly recommend him as an outstanding educator.",
+            "profile": "https://i.postimg.cc/3rZ0H0D8/profile-Image.png"
+        }
+    ],
+    "projects":[
+        {
+            "name": "To-do List",
+            "description": "I built this application using HTML 5, CSS, and Javascript.",
+            "image": "https://i.postimg.cc/tTF7RMr1/todoList.png",
+            "gitHub": "https://github.com/daanyaalkellerman/toDoList.git",
+            "netlify": "https://stupendous-faloodeh-2c4bca.netlify.app"
+        },
+        {
+            "name": "Calculator",
+            "description": "For added fun and subtracted stress. Done with HTML, CSS, Javascript and Bootstrap",
+            "image": "https://i.postimg.cc/vH8q91JB/reg-Exp-Calculator.png",
+            "gitHub": "https://github.com/daanyaalkellerman/calculator.git",
+            "netlify": "https://glittering-sprinkles-764f91.netlify.app"
+        },
+        {
+            "name": "Netflix",
+            "description": "Just Flicks...",
+            "image": "https://i.postimg.cc/k4tqF1Ln/message-Believer-Circle.png",
+            "gitHub": "https://github.com/codjoelmayer/messageBelieversCircle.git",
+            "netlify": "https://messagebelieverscircle-3491d.web.app/"
+        },
+        {
+            "name": "Dedsec Streetwear",
+            "description": "An ecommerce site built using HTML 5, CSS, Javascript, and Bootstrap 5",
+            "image": "https://i.postimg.cc/g2YVCx3R/JTLaptop.png",
+            "gitHub": "https://github.com/daanyaalkellerman/JavascriptProject1.git",
+            "netlify": "https://dedsecstreetwear.netlify.app"
+        },
+        {
+            "name": "First Portfolio",
+            "description": "I built my portfolio using HTML 5, CSS, Bootstrap, and Javascript. I am using JS to display my dynamic content.",
+            "image": "https://i.postimg.cc/W4m3tkbb/js-Portfolio.png",
+            "gitHub": "https://github.com/daanyaalkellerman/portfolio.git",
+            "netlify": "https://daanyaalkellermanp1.netlify.app"
+        },
+        {
+            "name": "First Portfolio",
+            "description": "I built my portfolio using HTML 5, CSS, Bootstrap, and Javascript. I am using JS to display my dynamic content.",
+            "image": "https://i.postimg.cc/W4m3tkbb/js-Portfolio.png",
+            "gitHub": "https://github.com/codjoelmayer/PortfolioWithBSAndJS.git",
+            "netlify": "https://joeljsportfolio.netlify.app/"
+        }
+    ]
+}
