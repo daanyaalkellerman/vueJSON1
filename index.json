@@ -1,7 +1,9 @@
 {
     "home": [
         {
-            "title": "a software developer"
+            "hello": "Hi my name is"
+            "name": "Daanyaal Kellerman"
+            "title": "Aspiring Software Developer"
         }  
     ],
     "about": [
