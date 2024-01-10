@@ -6,10 +6,6 @@
             "title": "Aspiring Software Developer"
         }  
     ],
-    "about": [
-        "HEY!! I'm Daanyaal Kellerman. I'm an aspiring Fullstack Web Developer. I enjoy bringing out the creative talent of other's and distributing the knowledge that i learn along my journey. I tend to make those around me more comfortable to better their mindset, lessen stress within the work environment and to strengthen our bonds.When it comes to doing things under pressure i always think of that one bruce lee quote flow like water so i go with the flow whilst still maintaining my drive towards the unreachable goal that is Perfection.",
-        "I spend most of my time skating to be more active, gyming to better my physical health, playing games to meet new people and spending quality time with my family."
-    ],
     "resume": [
         {
             "resumeH": "Resume"
@@ -39,28 +35,18 @@
     "skills": [
         {  
             "skillsH": "Skills"
-        },
-        {
             "html": "https://iili.io/J74jca2.md.png"
-        },
-        {
             "css": "https://iili.io/J74j0y7.md.png"
-        },
-        {
             "bootstrap": "https://iili.io/J74jEu9.md.png"
-        },
-        {
             "javascript": "https://iili.io/J74jrMJ.md.png"
-        },
-        {
             "vuejs": "https://iili.io/J74jvu1.md.png"
         }
     ],
     "testimonials": [
         {
-            "name": "Rachel",
-            "surname": "Mukanya",
-            "quotes": "Joel never ceases to amaze me with the vast amount of knowledge he has acquired over the years in software development. He is truly a great mentor.",
+            "name": "Joel",
+            "surname": "Williams",
+            "quotes": "I wholeheartedly recommend Daanyaal for any software development projects. Having worked closely with him, I've witnessed unparalleled technical proficiency and a commitment to delivering high-quality solutions on time",
             "profile": "https://i.postimg.cc/SRBL8qnC/rachel.jpg"
         },
         {
