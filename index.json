@@ -34,11 +34,11 @@
     ],
     "skills": [
         {  
-            "skillsH": "Skills"
-            "html": "https://iili.io/J74jca2.md.png"
-            "css": "https://iili.io/J74j0y7.md.png"
-            "bootstrap": "https://iili.io/J74jEu9.md.png"
-            "javascript": "https://iili.io/J74jrMJ.md.png"
+            "skillsH": "Skills",
+            "html": "https://iili.io/J74jca2.md.png",
+            "css": "https://iili.io/J74j0y7.md.png",
+            "bootstrap": "https://iili.io/J74jEu9.md.png",
+            "javascript": "https://iili.io/J74jrMJ.md.png",
             "vuejs": "https://iili.io/J74jvu1.md.png"
         }
     ],
