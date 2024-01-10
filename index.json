@@ -26,14 +26,14 @@
             "year": "February 2019 - May 2019",
             "description": "I really enjoyed my time at False Bay this is where I got my love for computers and coding in general. I made the decision to leave due to transportation. Although I was there for a short amount of time it taught me the one thing i wanted to pursue and thats coding",
             "place": "False Bay College",
-            "logo": "https://drive.google.com/uc?id=1RW_8YUzQVO_QL70twwiGluuJ-YFXD9Yb"
+            "logo": "https://iili.io/J74jRCG.png"
         },
         {
             "id": 3,
             "year": "2013 - 2018",
             "description": "I matriculated at Strandfontein Secondary School in 2018. My subjects were Math Lit, Geography, Biography, Business Studies, English, Afrikaans, Life Orientation",
             "place": "Strandfontein Secondary School",
-            "logo": "https://drive.google.com/uc?id=1DSv_J5DjfuXuaLmrWQBM3sG9boVk1O_i"
+            "logo": "https://iili.io/J74hp2V.md.jpg"
         }
     ],
     "skills": [
@@ -41,19 +41,19 @@
             "skillsH": "Skills"
         },
         {
-            "html": "https://drive.google.com/uc?id=1BhzGP7ecdouf16nPFBhO_qiTXUW1hWwI"
+            "html": "https://iili.io/J74jca2.md.png"
         },
         {
-            "css": "https://drive.google.com/uc?id=1WYM0aOdJmoVVf9AY9h_JYcJilfGnVzP1"
+            "css": "https://iili.io/J74j0y7.md.png"
         },
         {
-            "bootstrap": "https://drive.google.com/uc?id=1fW--gA47eq3p13udlzi2Xug503RYer6X"
+            "bootstrap": "https://iili.io/J74jEu9.md.png"
         },
         {
-            "javascript": "https://drive.google.com/uc?id=13rzeCAtsIaRWVS1Y-7rY3K9OBNTFISs7"
+            "javascript": "https://iili.io/J74jrMJ.md.png"
         },
         {
-            "vuejs": "https://drive.google.com/uc?id=1e_jPIKZCm8lxUS8RGW4h0cs3tzhfCVwy"
+            "vuejs": "https://iili.io/J74jvu1.md.png"
         }
     ],
     "testimonials": [
@@ -98,14 +98,14 @@
         {
             "name": "To-do List",
             "description": "I built this application using HTML 5, CSS, and Javascript.",
-            "image": "https://drive.google.com/uc?id=1_gt1si1pHpl8lP85oa0g0gNYkRdtO7qu",
+            "image": "https://iili.io/J74NwmP.md.png",
             "gitHub": "https://github.com/daanyaalkellerman/toDoList.git",
             "netlify": "https://stupendous-faloodeh-2c4bca.netlify.app"
         },
         {
             "name": "Calculator",
             "description": "For added fun and subtracted stress. Done with HTML, CSS, Javascript and Bootstrap",
-            "image": "https://drive.google.com/uc?id=1iXFSkwh0UmZnDNakkRRdKiRpOvnP7dTP",
+            "image": "https://iili.io/J74NQQn.md.png",
             "gitHub": "https://github.com/daanyaalkellerman/calculator.git",
             "netlify": "https://glittering-sprinkles-764f91.netlify.app"
         },
