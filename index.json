@@ -31,10 +31,18 @@
     ],
     "skills": [
         {  
-            "skill": "https://iili.io/J74jca2.md.png",
-            "skill": "https://iili.io/J74j0y7.md.png",
-            "skill": "https://iili.io/J74jEu9.md.png",
-            "skill": "https://iili.io/J74jrMJ.md.png",
+            "skill": "https://iili.io/J74jca2.md.png"
+        },
+        {
+            "skill": "https://iili.io/J74j0y7.md.png"
+        },
+        {
+            "skill": "https://iili.io/J74jEu9.md.png"
+        },
+        {
+            "skill": "https://iili.io/J74jrMJ.md.png"
+        },
+        {
             "skill": "https://iili.io/J74jvu1.md.png"
         }
     ],
