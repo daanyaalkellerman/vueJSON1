@@ -87,7 +87,7 @@
     "projects":[
         {
             "name": "To-do List",
-            "description": "I built this application using HTML 5, CSS, and Javascript.",
+            "description": "An auto sorting to-do list",
             "image": "https://iili.io/J74NwmP.md.png",
             "gitHub": "https://github.com/daanyaalkellerman/toDoList.git",
             "netlify": "https://stupendous-faloodeh-2c4bca.netlify.app"
@@ -103,29 +103,29 @@
             "name": "Netflix",
             "description": "Just Flicks...",
             "image": "https://i.postimg.cc/k4tqF1Ln/message-Believer-Circle.png",
-            "gitHub": "https://github.com/codjoelmayer/messageBelieversCircle.git",
-            "netlify": "https://messagebelieverscircle-3491d.web.app/"
+            "gitHub": "hhttps://github.com/daanyaalkellerman/netflix.git",
+            "netlify": "https://justflix.netlify.app/"
         },
         {
             "name": "Dedsec Streetwear",
-            "description": "An ecommerce site built using HTML 5, CSS, Javascript, and Bootstrap 5",
-            "image": "https://i.postimg.cc/g2YVCx3R/JTLaptop.png",
+            "description": "Enter The DeadSpace",
+            "image": "https://iili.io/JY999mN.md.png",
             "gitHub": "https://github.com/daanyaalkellerman/JavascriptProject1.git",
             "netlify": "https://dedsecstreetwear.netlify.app"
         },
         {
             "name": "First Portfolio",
-            "description": "I built my portfolio using HTML 5, CSS, Bootstrap, and Javascript. I am using JS to display my dynamic content.",
-            "image": "https://i.postimg.cc/W4m3tkbb/js-Portfolio.png",
+            "description": "My portfolio that was built with HTML, CSS and Bootstrap.",
+            "image": "https://iili.io/JY9HmDN.md.png",
             "gitHub": "https://github.com/daanyaalkellerman/portfolio.git",
             "netlify": "https://daanyaalkellermanp1.netlify.app"
         },
         {
-            "name": "First Portfolio",
-            "description": "I built my portfolio using HTML 5, CSS, Bootstrap, and Javascript. I am using JS to display my dynamic content.",
-            "image": "https://i.postimg.cc/W4m3tkbb/js-Portfolio.png",
-            "gitHub": "https://github.com/codjoelmayer/PortfolioWithBSAndJS.git",
-            "netlify": "https://joeljsportfolio.netlify.app/"
+            "name": "First E-commerce",
+            "description": "This was my first ever e-commerce.",
+            "image": "https://iili.io/JY9d1Tl.md.png",
+            "gitHub": "https://github.com/daanyaalkellerman/e-commerce.git",
+            "netlify": "https://animooshies.netlify.app/"
         }
     ]
 }
