@@ -7,10 +7,6 @@
         }  
     ],
     "resume": [
-        {
-            "resumeH": "Resume"
-        },
-        {
             "id": 1,
             "year": "September 2023 - Present Day",
             "description": "Currently a student at Life Choices Academy, to be a Fullstack Developer, the discipline, the drive, the overall good people in this academy is what made me stay for so long, i most definetly know more about coding in a month than what i learned at False Bay College",
@@ -34,12 +30,11 @@
     ],
     "skills": [
         {  
-            "skillsH": "Skills",
-            "html": "https://iili.io/J74jca2.md.png",
-            "css": "https://iili.io/J74j0y7.md.png",
-            "bootstrap": "https://iili.io/J74jEu9.md.png",
-            "javascript": "https://iili.io/J74jrMJ.md.png",
-            "vuejs": "https://iili.io/J74jvu1.md.png"
+            "skill": "https://iili.io/J74jca2.md.png",
+            "skill": "https://iili.io/J74j0y7.md.png",
+            "skill": "https://iili.io/J74jEu9.md.png",
+            "skill": "https://iili.io/J74jrMJ.md.png",
+            "skill": "https://iili.io/J74jvu1.md.png"
         }
     ],
     "testimonials": [
@@ -77,7 +72,7 @@
             "name": "Jodi",
             "surname": "Abrahams",
             "quotes": "Daanyaal exemplifies competence, efficiency, and strong work ethics—his skills and character make him an invaluable asset.",
-            "profile": "https://iili.io/J7mFmzB.md.jpg"
+            "profile": "https://iili.io/J7DrTbI.png"
         }
     ],
     "projects":[
