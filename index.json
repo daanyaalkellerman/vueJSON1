@@ -130,11 +130,11 @@
             "netlify": "https://daanyaalkellermanp1.netlify.app"
         },
         {
-            "name": "First E-commerce",
-            "description": "This was my first ever e-commerce.",
-            "image": "https://iili.io/JY9d1Tl.md.png",
-            "gitHub": "https://github.com/daanyaalkellerman/e-commerce.git",
-            "netlify": "https://animooshies.netlify.app/"
+            "name": "DRIVE NEXA",
+            "description": "Capstone Project.",
+            "image": "https://iili.io/JjcNlWl.md.png",
+            "gitHub": "https://github.com/daanyaalkellerman/CAPSTONE.git",
+            "netlify": "https://drivenexa-86c97.web.app/"
         }
     ]
 }
