@@ -117,11 +117,10 @@
             "netlify": "https://stupendous-faloodeh-2c4bca.netlify.app"
         },
         {
-            "name": "Calculator",
-            "description": "Done with HTML, CSS, Javascript and Bootstrap",
-            "image": "https://iili.io/J74NQQn.md.png",
-            "gitHub": "https://github.com/daanyaalkellerman/calculator.git",
-            "netlify": "https://glittering-sprinkles-764f91.netlify.app"
+            "name": "Harvest Haven",
+            "description": "A group project using Wordpress and Seo",
+            "image": "https://iili.io/d9uAJst.md.png",
+            "netlify": "https://dev-harvesthaven.pantheonsite.io/"
         },
         {
             "name": "Netflix",
