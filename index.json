@@ -134,10 +134,10 @@
         },
         {
             "name": "First Portfolio",
-            "description": "My portfolio that was built with HTML, CSS and Bootstrap.",
-            "image": "https://iili.io/JY9HmDN.md.png",
+            "description": "My portfolio that was built with HTML, CSS and Bootstrap with Vue.js framework.",
+            "image": "https://iili.io/3bfA1RV.md.png",
             "gitHub": "https://github.com/daanyaalkellerman/portfolio.git",
-            "netlify": "https://daanyaalkellermanp1.netlify.app"
+            "netlify": "https://vue-project-ab79f.web.app/"
         },
         {
             "name": "DRIVE NEXA",
