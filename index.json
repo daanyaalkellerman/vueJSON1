@@ -75,10 +75,6 @@
             "name": "WordPress"
         },
         {
-            "skill": "http://www.w3.org/2000/svg",
-            "name": "SEO"
-        },
-        {
             "skill": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg",
             "name": "Bootstrap"
         }
