@@ -126,24 +126,11 @@
             "netlify": "https://stupendous-faloodeh-2c4bca.netlify.app"
         },
         {
-            "name": "Harvest Haven",
-            "description": "A group project using Wordpress and Seo (Github Link Not Provided)",
-            "image": "https://iili.io/d9uAJst.md.png",
-            "netlify": "https://dev-harvesthaven.pantheonsite.io/"
-        },
-        {
             "name": "Netflix",
             "description": "A Project using HTML, CSS and Bootstrap",
             "image": "https://iili.io/JYJaJZQ.png",
             "gitHub": "https://github.com/daanyaalkellerman/netflix.git",
             "netlify": "https://justflix.netlify.app/"
-        },
-        {
-            "name": "Dedsec Streetwear",
-            "description": "E-commerce built with HTML, CSS, Bootstrap and Javascript",
-            "image": "https://iili.io/JY999mN.md.png",
-            "gitHub": "https://github.com/daanyaalkellerman/JavascriptProject1.git",
-            "netlify": "https://dedsecstreetwear.netlify.app"
         },
         {
             "name": "First Portfolio",
