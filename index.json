@@ -31,43 +31,56 @@
     ],
     "skills": [
         {  
-            "skill": "https://iili.io/J74jca2.md.png"
+            "skill": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg",
+            "name":"HTML"
         },
         {
-            "skill": "https://iili.io/J74j0y7.md.png"
+            "skill": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg",
+            "name": "CSS" 
         },
         {
-            "skill": "https://iili.io/J74jEu9.md.png"
+            "skill": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg",
+            "name": "Tailwind CSS"
         },
         {
-            "skill": "https://iili.io/J74jrMJ.md.png"
+            "skill": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg",
+            "name": "JavaScript"
         },
         {
-            "skill": "https://iili.io/J74jvu1.md.png"
+            "skill": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg",
+            "name": "MySQL"
         },
         {
-            "skill": "https://iili.io/Jjnn75v.md.png"
+            "skill": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg",
+            "name": "PHP"
         },
         {
-            "skill": "https://iili.io/Jjnnbrg.md.png"
+            "skill": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg",
+            "name": "Express.js"
         },
         {
-            "skill": "https://iili.io/JjnoTj2.md.png"
+            "skill": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg",
+            "name": "Vue.js"
         },
         {
-            "skill": "https://iili.io/J6Xw4Vf.md.png"
+            "skill": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg",
+            "name": "Node.js"
         },
         {
-            "skill": "https://iili.io/JsHL09p.md.png"
+            "skill": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg",
+            "name": "Docker"
         },
         {
-            "skill": "https://iili.io/d9uosIt.md.png"
+            "skill": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg",
+            "name": "WordPress"
         },
         {
-            "skill": "https://iili.io/d9uICmB.md.png"
+            "skill": "http://www.w3.org/2000/svg",
+            "name": "SEO"
         },
         {
-            "skill": "https://iili.io/d9uIr2j.md.png"
+            "skill": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg",
+            "name": "Bootstrap"
         }
     ],
     "testimonials": [
